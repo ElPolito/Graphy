@@ -26,7 +26,7 @@ Vous ajoutez l'attribut correspondant sur l'élément receveur et l'attribut **g
 ## Les fichiers de données (fichier texte)
 Dans tout les cas votre fichier texte doit commencer par spécifier le titre (title).
 
-Voici des exemples pour chacun des types de graphiques :
+Voici des exemples pour chacun des types de graphiques ( veillez à bien respecter les retour à la ligne ):
 ### Histogramme
 ```
 Title : Graphique 6
@@ -37,4 +37,41 @@ Nombre de manchots en Antarctique : 200,400,600,800,1000,1200,1400,1600,1800,200
 From : 200
 To : 2000
 Step : 200
+```
+### Courbe
+```
+Title : Graphique 6
+Annee : 2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010
+: 2
+Nombre de friteries belges : 1200,1300,1500,1700,1600,1400,1500,1600,1700,1750,1800
+Nombre de manchots en Antarctique : 700,900,1000,1300,1200,1000,1100,1300,1400,1500,1600
+From : 200
+To : 2000
+Step : 200
+```
+### Camembert
+```
+Title : Parts du CA en 2010
+Detaillants specialise,Utilisateurs finaux,Entreprises,Administrations,Grande Distribution
+45,21,19,9,6 
+Highlights : Utilisateurs finaux
+```
+### Anneau
+```
+Title : Parts du CA en 2010
+Detaillants specialise,Utilisateurs finaux,Entreprises,Administrations,Grande Distribution
+45,21,19,9,6 
+Highlights : Utilisateurs finaux
+```
+### Araigné
+```
+Title : Schema d'orientation
+Enjeux internes,Enjeux externes,Facilite d'acces aux connaissances,Criticite des connaissances,Interet du resultat,Integration a l'environnement
+: 3
+Projet 1 : 80,40,60,20,70,40
+Projet 2 : 90,60,20,80,30,60
+Projet 3 : 50,20,20,40,40,70
+From : 0
+To : 100
+Step : 20
 ```
