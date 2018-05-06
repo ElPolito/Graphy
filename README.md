@@ -75,3 +75,31 @@ From : 0
 To : 100
 Step : 20
 ```
+
+## Les options disponibles
+Il existe différentes options que vous pouvez ajouter :
+* gr-grid
+* gr-grid-ver
+* gr-grid-hor
+* gr-colors
+* gr-points
+* gr-area-colors
+* gr-curve
+* gr-area
+* gr-spider
+* gr-curve-weight
+* gr-shape-size
+* gr-pie-radius
+* gr-ring-radius
+* gr-ring-weight
+* gr-border-weight
+* gr-border-colors
+* gr-margin-left
+* gr-margin-right
+* gr-margin-top
+* gr-margin-bottom
+* gr-padding-left
+* gr-padding-right
+* gr-padding-top
+* gr-padding-bottom
+* gr-spider-radius
