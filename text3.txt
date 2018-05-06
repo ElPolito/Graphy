@@ -1,0 +1,4 @@
+Title : Parts du CA en 2010
+Detaillants specialise,Utilisateurs finaux,Entreprises,Administrations,Grande Distribution
+45,21,19,9,6 
+Highlights : Utilisateurs finaux

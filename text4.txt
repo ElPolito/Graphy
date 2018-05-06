@@ -1,0 +1,9 @@
+Title : Schema d'orientation
+Enjeux internes,Enjeux externes,Facilite d'acces aux connaissances,Criticite des connaissances,Interet du resultat,Integration a l'environnement
+: 3
+Projet 1 : 80,40,60,20,70,40
+Projet 2 : 90,60,20,80,30,60
+Projet 3 : 50,20,20,40,40,70
+From : 0
+To : 100
+Step : 20

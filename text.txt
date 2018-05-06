@@ -1,0 +1,9 @@
+Title : Temps moyen de reponse par departement
+Mois de la demande : Jan,Fevr,Mar,Avr,Jun,Jul,Aou,Sep,Oct,Nov,Dec
+Temps de reponse en jours : 3
+Developpement : 16,17,14,14,14,13,11,10,11,9,11,9
+Support Technique : 19,21,17,16,16,19,13,13,12,14,14,15
+Test du produit : 13,20,14,16,15,19,14,15,11,10,10,9
+From : lower
+To : bigger
+Step : 1
